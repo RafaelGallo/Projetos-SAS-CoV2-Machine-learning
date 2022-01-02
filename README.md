@@ -1,5 +1,5 @@
 # Projetos aplicado com a base de dados SaS-CoV2(Covid19).
-Projetos de Ai para modelos de classificação, regressão linear, series temporais, rede neural ANN, modelos NLP.
+Projetos de inteligência artificial para modelos de classificação, regressão linear, series temporais, rede neural ANN, modelos NLP.
 
 
 1 - Coronavirus tweets NLP - Text Classification - Machine learning NLP
