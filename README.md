@@ -17,6 +17,7 @@ https://www.kaggle.com/ayushggarg/covid19-vaccine-adverse-reactions?select=2021V
 4 - Pfizer Vaccine Tweets - Machine learning NLP
 
 Referência
+
 https://www.kaggle.com/ash112/pfizer-tweets-sentiment-analysis
 
 https://www.kaggle.com/gpreda/pfizer-vaccine-tweets
@@ -52,3 +53,7 @@ https://www.kaggle.com/S%C3%ADrio-Libanes/covid19
 12 - COVID-19 Dataset - Machine learning: Classificação 
 
 https://www.kaggle.com/imdevskp/corona-virus-report?select=country_wise_latest.csv
+
+13 - COVID-19 Open Research Dataset Challenge (CORD-19) Coalizão - Base de dados completo acima de 60Gb essa base tem dados geral para o SaS-Cov2 como dados em textos, números, imagens.
+
+https://www.kaggle.com/allen-institute-for-ai/CORD-19-research-challenge
