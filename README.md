@@ -9,6 +9,4 @@ Covid projetos
 
 4 - https://www.kaggle.com/ash112/pfizer-tweets-sentiment-analysis
 
-5 - https://www.kaggle.com/gpreda/pfizer-vaccine-on-reddit
-
-6 - https://www.kaggle.com/sudalairajkumar/novel-corona-virus-2019-dataset
+5 - https://www.kaggle.com/sudalairajkumar/novel-corona-virus-2019-dataset
