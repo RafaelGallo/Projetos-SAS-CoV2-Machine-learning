@@ -1,6 +1,7 @@
 # Projetos aplicado com a base de dados SaS-CoV2(Covid19).
 Projetos de inteligência artificial para modelos de classificação, regressão linear, series temporais, rede neural ANN, modelos NLP.
 
+# Base de dados coletadas
 
 1 - Coronavirus tweets NLP - Text Classification - Machine learning NLP
 
@@ -102,7 +103,12 @@ https://www.kaggle.com/fireballbyedimyrnmom/us-counties-covid-19-dataset
 
 # Coalizão 
 
-Base de dados completo acima de 60Gb essa base tem dados geral para o SaS-Cov2 como dados em textos, números, imagens.
+Em resposta à pandemia COVID-19, uma coalizão de importantes grupos de pesquisa prepararam o COVID-19 Open Research Dataset (CORD-19). CORD-19 é um recurso de mais de 500.000 artigos acadêmicos, incluindo mais de 200.000 com texto completo, sobre COVID-19, SARS-CoV-2 e coronavírus relacionados. Este conjunto de dados disponível gratuitamente é fornecido à comunidade de pesquisa global para aplicar os avanços recentes no processamento de linguagem natural e outras técnicas de IA para gerar novos insights em apoio à luta contínua contra esta doença infecciosa. Há uma urgência crescente para essas abordagens devido à rápida aceleração na nova literatura sobre coronavírus, tornando difícil para a comunidade de pesquisa médica acompanhar.
+
+
+Estamos emitindo um apelo aos especialistas em inteligência artificial do mundo para desenvolver ferramentas de mineração de texto e dados que podem ajudar a comunidade médica a desenvolver respostas para questões científicas de alta prioridade. O conjunto de dados CORD-19 representa a mais ampla coleção de literatura de coronavírus legível por máquina disponível para mineração de dados até o momento. Isso permite à comunidade mundial de pesquisa de IA a oportunidade de aplicar abordagens de mineração de texto e dados para encontrar respostas a perguntas e conectar percepções sobre esse conteúdo em apoio aos esforços contínuos de resposta do COVID-19 em todo o mundo. Há uma urgência crescente para essas abordagens devido ao rápido aumento na literatura sobre coronavírus, tornando difícil para a comunidade médica acompanhar.
+
+Uma lista de nossas perguntas-chave iniciais pode ser encontrada na seção Tarefas deste conjunto de dados. Estas questões científicas fundamentais são retirados de SCIED do NASEM (National Academies of Sciences, engenharia e Comité Permanente da Medicina em Doenças Infecciosas Emergentes e Ameaças 21st Century Saúde) tópicos de pesquisa e da Organização Mundial de Saúde R & D Blueprint para COVID-19
 
 1 - COVID-19 Open Research Dataset Challenge (CORD-19)
 
