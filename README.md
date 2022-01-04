@@ -50,10 +50,69 @@ https://www.kaggle.com/paultimothymooney/chest-xray-pneumonia
 
 https://www.kaggle.com/S%C3%ADrio-Libanes/covid19
 
-12 - COVID-19 Dataset - Machine learning: Classificação 
+12 - Diagnosis of COVID-19 and its clinical spectrum (Hospital Israelita Albert Einstein) Machine learning : Classificação
+
+https://www.kaggle.com/einsteindata4u/covid19
+
+13 - COVID-19 Dataset - Machine learning: Classificação 
 
 https://www.kaggle.com/imdevskp/corona-virus-report?select=country_wise_latest.csv
 
-13 - COVID-19 Open Research Dataset Challenge (CORD-19) Coalizão - Base de dados completo acima de 60Gb essa base tem dados geral para o SaS-Cov2 como dados em textos, números, imagens.
+14 - BCG - COVID-19 AI Challenge Improve BCG Data and Provide Insights to "BCG - COVID-19" Clinical Trials
+
+https://www.kaggle.com/bcgvaccine/hackathon?select=task_2-Tuberculosis_infection_estimates_for_2018.csv
+
+15 - COVID-19 Corona Virus India Dataset
+
+https://www.kaggle.com/imdevskp/covid19-corona-virus-india-dataset?select=api.ipynb
+
+16 - COVID-19 Dataset
+
+https://www.kaggle.com/imdevskp/corona-virus-report
+
+17 - COVID-19 in India
+
+https://www.kaggle.com/sudalairajkumar/covid19-in-india
+
+18 - COVID-19 in USA
+
+https://www.kaggle.com/sudalairajkumar/covid19-in-usa
+
+19 - COVID-19 Predictors
+
+https://www.kaggle.com/nightranger77/covid19-demographic-predictors
+
+20 - COVID-19 Symptoms Checker
+
+https://www.kaggle.com/iamhungundji/covid19-symptoms-checker?select=Raw-Data.csv
+
+21 - Covid19 Forecasting Metadata
+
+https://www.kaggle.com/rohanrao/covid19-forecasting-metadata
+
+22 - Global Hospital Beds Capacity (for covid-19)
+
+https://www.kaggle.com/ikiulian/global-hospital-beds-capacity-for-covid19
+
+23 - US counties COVID 19 dataset
+
+https://www.kaggle.com/fireballbyedimyrnmom/us-counties-covid-19-dataset
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+# Coalizão 
+
+Base de dados completo acima de 60Gb essa base tem dados geral para o SaS-Cov2 como dados em textos, números, imagens.
+
+1 - COVID-19 Open Research Dataset Challenge (CORD-19)
 
 https://www.kaggle.com/allen-institute-for-ai/CORD-19-research-challenge
+
+2 - UNCOVER COVID-19 Challenge
+
+https://www.kaggle.com/roche-data-science-coalition/uncover
+
+3 - Data Science for COVID-19 - Data Science for COVID-19 in South Korea
+
+https://www.kaggle.com/kimjihoo/coronavirusdataset
+
