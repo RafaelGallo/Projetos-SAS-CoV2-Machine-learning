@@ -1,5 +1,5 @@
 
-# Projetos aplicado com a base de dados SaS-CoV2(Covid19)
+# Projetos aplicado dados SaS-CoV2(Covid19)
 
 Neste repositório aqui tem os links para várias base de dados, para criação de modelos de machine learning.
 Tem algumas bases de dados que são de coalizão. 
