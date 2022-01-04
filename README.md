@@ -1,22 +1,6 @@
 
 # Projetos aplicado dados SaS-CoV2(Covid19)
 
-Neste repositório aqui tem os links para várias base de dados, para criação de modelos de machine learning.
-Tem algumas bases de dados que são de coalizão. 
-
-# O que é coalizão ?
-- A coalizão em resposta à pandemia covid-19, e uma coalizão de importantes dos grupos prepararam mais de 500.000 artigos acadêmicos, incluindo mais de 200.000 com texto completo, sobre COVID-19, SARS-CoV-2 e coronavírus relacionados. Este conjunto de dados disponível gratuitamente é fornecido à comunidade de pesquisa global para aplicar os avanços recentes no processamento de linguagem natural e outras técnicas de IA para gerar novos insights em apoio à luta contínua contra esta doença infecciosa. 
-
-
-    ![Logo](https://image.freepik.com/vetores-gratis/faixa-de-celulas-de-coronavirus_1035-18753.jpg)
-
-
-## Autores
-
-- [@RafaelGallo](https://github.com/RafaelGallo)
-
-
-
 [![MIT License](https://img.shields.io/apm/l/atomic-design-ui.svg?)](https://github.com/tterb/atomic-design-ui/blob/master/LICENSEs)
 [![GPLv3 License](https://img.shields.io/badge/License-GPL%20v3-yellow.svg)](https://opensource.org/licenses/)
 [![AGPL License](https://img.shields.io/badge/license-AGPL-blue.svg)](http://www.gnu.org/licenses/agpl-3.0)
@@ -42,6 +26,19 @@ Tem algumas bases de dados que são de coalizão.
 [![](https://img.shields.io/badge/Numpy-white.svg)](https://numpy.org/)
 [![](https://img.shields.io/badge/PowerBI-red.svg)](https://powerbi.microsoft.com/pt-br/)
 
+Neste repositório aqui tem os links para várias base de dados, para criação de modelos de machine learning.
+Tem algumas bases de dados que são de coalizão. 
+
+# O que é coalizão ?
+- A coalizão em resposta à pandemia covid-19, e uma coalizão de importantes dos grupos prepararam mais de 500.000 artigos acadêmicos, incluindo mais de 200.000 com texto completo, sobre COVID-19, SARS-CoV-2 e coronavírus relacionados. Este conjunto de dados disponível gratuitamente é fornecido à comunidade de pesquisa global para aplicar os avanços recentes no processamento de linguagem natural e outras técnicas de IA para gerar novos insights em apoio à luta contínua contra esta doença infecciosa. 
+
+
+    ![Logo](https://image.freepik.com/vetores-gratis/faixa-de-celulas-de-coronavirus_1035-18753.jpg)
+
+
+## Autores
+
+- [@RafaelGallo](https://github.com/RafaelGallo)
 
 ## Instalação 
 
