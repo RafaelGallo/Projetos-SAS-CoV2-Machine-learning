@@ -103,6 +103,7 @@ jupyter notebook
 | COVID-19 - Clinical Data to assess diagnosis (Hospital Sírio-Libanês) Machine learning : Classificação |https://www.kaggle.com/S%C3%ADrio-Libanes/covid19 |
 | Diagnosis of COVID-19 and its clinical spectrum (Hospital Israelita Albert Einstein) Machine learning : Classificação |https://www.kaggle.com/einsteindata4u/covid19 |
 | COVID-19 Dataset - Machine learning: Classificação |https://www.kaggle.com/imdevskp/corona-virus-report?select=country_wise_latest.csv |
+| COVID-19 data from John Hopkins University |https://www.kaggle.com/antgoldbloom/covid19-data-from-john-hopkins-university|
 | BCG - COVID-19 AI Challenge Improve BCG Data and Provide Insights to "BCG - COVID-19" Clinical Trials | https://www.kaggle.com/bcgvaccine/hackathon?select=task_2-Tuberculosis_infection_estimates_for_2018.csv|
 | COVID-19 Corona Virus India Dataset | https://www.kaggle.com/imdevskp/covid19-corona-virus-india-dataset?select=README.md|
 | COVID-19 Dataset |https://www.kaggle.com/imdevskp/corona-virus-report |
