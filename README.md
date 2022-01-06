@@ -114,6 +114,7 @@ jupyter notebook
 | Covid19 Forecasting Metadata |https://www.kaggle.com/rohanrao/covid19-forecasting-metadata |
 | Global Hospital Beds Capacity (for covid-19) |https://www.kaggle.com/ikiulian/global-hospital-beds-capacity-for-covid19 |
 | US counties COVID 19 dataset|https://www.kaggle.com/fireballbyedimyrnmom/us-counties-covid-19-dataset |
+| COVID-19 John Hopkins University|https://www.kaggle.com/antgoldbloom/covid19-data-from-john-hopkins-university |
 
 # Colizão Covid19 
 - Nessa base de dados são dados da colizão dados grandes.
