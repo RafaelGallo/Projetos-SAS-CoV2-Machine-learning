@@ -27,7 +27,7 @@
 [![](https://img.shields.io/badge/PowerBI-red.svg)](https://powerbi.microsoft.com/pt-br/)
 
 Neste repositório aqui tem os links para várias base de dados, para criação de modelos de machine learning.
-Tem algumas bases de dados que são de colizão . 
+Tem algumas bases de dados que são de colisão. 
 
 ![Logo](https://image.freepik.com/vetores-gratis/faixa-de-celulas-de-coronavirus_1035-18753.jpg)
 
