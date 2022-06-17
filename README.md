@@ -81,10 +81,13 @@ jupyter notebook
  
 - Python
 - R
+- BigQuery
 - Análise de dados
 - Machine learning
 - Dashboard
 - Série temporal
+- Processamento linguagem natural
+
 ## Base de dados - Covid19 
 
 | Dataset             | Link                                                                |
@@ -114,16 +117,19 @@ jupyter notebook
 | Covid19 Forecasting Metadata |https://www.kaggle.com/rohanrao/covid19-forecasting-metadata |
 | Global Hospital Beds Capacity (for covid-19) |https://www.kaggle.com/ikiulian/global-hospital-beds-capacity-for-covid19 |
 | US counties COVID 19 dataset|https://www.kaggle.com/fireballbyedimyrnmom/us-counties-covid-19-dataset |
-| COVID-19 John Hopkins University|https://www.kaggle.com/antgoldbloom/covid19-data-from-john-hopkins-university |
 
 # Colizão Covid19 
 - Nessa base de dados são dados da colizão dados grandes.
 
 | Dataset             | Link                                                                |
 | ----------------- | ------------------------------------------------------------------ |
-| Coronavirus tweets NLP - Text Classification - Machine learning NLP | https://www.kaggle.com/sevgisarac/temperature-change/code|
+| COVID-19 Open Research Dataset Challenge | https://www.kaggle.com/datasets/allen-institute-for-ai/CORD-19-research-challenge|
 | UNCOVER COVID-19 Challenge | https://www.kaggle.com/roche-data-science-coalition/uncover|
 | Data Science for COVID-19 - Data Science for COVID-19 in South Korea | https://www.kaggle.com/kimjihoo/coronavirusdataset|
+| TREC-COVID Information Retrieval| https://www.kaggle.com/competitions/trec-covid-information-retrieval/data|
+| SIIM-FISABIO-RSNA COVID-19 Detection|https://www.kaggle.com/competitions/siim-covid19-detection/overview|
+| COVID-19 John Hopkins University|https://www.kaggle.com/datasets/antgoldbloom/covid19-data-from-john-hopkins-university?select=RAW_global_confirmed_cases.csv|
+| COVID19 Local|https://www.kaggle.com/competitions/covid19-local-us-ca-forecasting-week-1/code|
 
 
 
