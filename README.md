@@ -29,7 +29,7 @@
 Neste repositório aqui tem os links para várias base de dados, para criação de modelos de machine learning.
 Tem algumas bases de dados que são de colisão. 
 
-![Logo](https://image.freepik.com/vetores-gratis/faixa-de-celulas-de-coronavirus_1035-18753.jpg)
+![Logo](https://github.com/RafaelGallo/Projetos-SAS-CoV2-Machine-learning/blob/main/.github/workflows/xc3.jpg)
 
 ## Autores
 
