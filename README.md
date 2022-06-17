@@ -26,11 +26,10 @@
 [![](https://img.shields.io/badge/Numpy-white.svg)](https://numpy.org/)
 [![](https://img.shields.io/badge/PowerBI-red.svg)](https://powerbi.microsoft.com/pt-br/)
 
+![Logo](https://github.com/RafaelGallo/Projetos-SAS-CoV2-Machine-learning/blob/main/.github/workflows/xc3.jpg)
+
 # Descrição
 (Em breve)
-
-
-![Logo](https://github.com/RafaelGallo/Projetos-SAS-CoV2-Machine-learning/blob/main/.github/workflows/xc3.jpg)
 
 ## Autores
 
